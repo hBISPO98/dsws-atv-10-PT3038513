@@ -40,7 +40,7 @@ Evolução da aplicação web em Flask focada na persistência de auditoria de e
 ## 👩🏽‍💻 Demonstração
 <div align="center">
 
-| Home Pincipal |
+| Home Principal |
 | :---: |
 | <img src="https://github.com/user-attachments/assets/5536e108-61f8-4d84-a9cc-f8ebfbd88d24" /> |
 
@@ -48,6 +48,6 @@ Evolução da aplicação web em Flask focada na persistência de auditoria de e
 
 | Rota Emails Enviados |
 | :---: |
-| <img src="hhttps://github.com/user-attachments/assets/76f4007c-d9a3-45bd-bb49-f0553c8d9667" /> |
+| <img src="https://github.com/user-attachments/assets/76f4007c-d9a3-45bd-bb49-f0553c8d9667" /> |
 
 </div>
