@@ -49,3 +49,5 @@ Evolução da aplicação web em Flask focada na persistência de auditoria de e
 | Rota Emails Enviados |
 | :---: |
 | <img src="hhttps://github.com/user-attachments/assets/76f4007c-d9a3-45bd-bb49-f0553c8d9667" /> |
+
+<div/>
